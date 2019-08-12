@@ -1,0 +1,8 @@
+obj/*
+Library/*
+Builds/*
+.vs/*
+.idea/*
+Assets/Plugins/*
+/Assets/Plugins.meta
+/Logs/Packages-Update.log
